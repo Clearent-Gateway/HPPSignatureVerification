@@ -13,7 +13,7 @@ You can see an example of how to implement signature verification in the ECDSASi
 
 ## Test
 
-You can see this in action by running our test ECDSASignatureTest by running the JUnit tests for this class. If you have maven configured you can run 'mvn test' to run the tests from your command line.
+You can see this in action by running our test ECDSASignatureTest by running the JUnit tests for this class. If you have maven configured you can run `mvn test` to run the tests from your command line.
 
 ## Additional Support
 
